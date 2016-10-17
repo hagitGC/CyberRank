@@ -17,5 +17,7 @@ We generate synthetic examples and annotate them using a model produced by Analy
 (AHP) to bootstrap a preference learning algorithm. We evaluate different approaches with a new dataset of 
 expert ranked pairs of database transactions, in terms of their risk to the organization. We evaluated using 
 manual risk assessments of transaction pairs, CyberRank outperforms all other methods for cold start scenario 
-with error reduction of 20%.  
+with error reduction of 20%.
+
+To learn more about me go to http://hagitgrushka.wixsite.com/mysite  
 
